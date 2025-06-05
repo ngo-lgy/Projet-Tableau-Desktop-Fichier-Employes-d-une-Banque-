@@ -92,6 +92,6 @@ Dans le coin supérieur droit, l'option "Montrer moi" permet de sélectionner de
 - On choisit une représentation de type surface, et on applique une mise en couleur en dégradé rouge-vert divergent pour illustrer les moyennes de salaires.
 - On ajoute aussi le nombre de personnes par code postal sur la carte.
 
-#### 4 - Créer un tableau de bord
+### 4 - Créer un tableau de bord
 
 Dans cette dernière étape, on crée un tableau de bord en intégrant les résultats obtenus dans les différentes feuilles de calcul précédentes. On regroupe ainsi les visualisations les plus pertinentes pour avoir une vue d’ensemble claire et efficace des données.
